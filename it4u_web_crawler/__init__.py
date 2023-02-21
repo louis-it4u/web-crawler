@@ -1,1 +1,1 @@
-from .web_crawler import WebCrawler, Url
+from .web_crawler import WebCrawler
